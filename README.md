@@ -1,3 +1,4 @@
+[Online Retail Data Set.xlsx](https://github.com/user-attachments/files/16165186/Online.Retail.Data.Set.xlsx)
 # PowerBI-Project-Data-Visualisation-
 Data Cleaning
 Before you can begin the analysis, make sure that the data is cleaned properly. You have noticed that the data contains some returns to the store which are provided in negative quantities and there are unit prices which were input in error. You will need to perform the following steps to clean this data.
